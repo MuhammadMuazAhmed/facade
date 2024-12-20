@@ -1,0 +1,14 @@
+C:\Users\creat\OneDrive\Desktop\.NET\facade\bin\Debug\net8.0\facade.exe
+C:\Users\creat\OneDrive\Desktop\.NET\facade\bin\Debug\net8.0\facade.deps.json
+C:\Users\creat\OneDrive\Desktop\.NET\facade\bin\Debug\net8.0\facade.runtimeconfig.json
+C:\Users\creat\OneDrive\Desktop\.NET\facade\bin\Debug\net8.0\facade.dll
+C:\Users\creat\OneDrive\Desktop\.NET\facade\bin\Debug\net8.0\facade.pdb
+C:\Users\creat\OneDrive\Desktop\.NET\facade\obj\Debug\net8.0\facade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\creat\OneDrive\Desktop\.NET\facade\obj\Debug\net8.0\facade.AssemblyInfoInputs.cache
+C:\Users\creat\OneDrive\Desktop\.NET\facade\obj\Debug\net8.0\facade.AssemblyInfo.cs
+C:\Users\creat\OneDrive\Desktop\.NET\facade\obj\Debug\net8.0\facade.csproj.CoreCompileInputs.cache
+C:\Users\creat\OneDrive\Desktop\.NET\facade\obj\Debug\net8.0\facade.dll
+C:\Users\creat\OneDrive\Desktop\.NET\facade\obj\Debug\net8.0\refint\facade.dll
+C:\Users\creat\OneDrive\Desktop\.NET\facade\obj\Debug\net8.0\facade.pdb
+C:\Users\creat\OneDrive\Desktop\.NET\facade\obj\Debug\net8.0\facade.genruntimeconfig.cache
+C:\Users\creat\OneDrive\Desktop\.NET\facade\obj\Debug\net8.0\ref\facade.dll
